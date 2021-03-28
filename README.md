@@ -21,6 +21,6 @@ target_link_libraries(traffic_simulation ${OpenCV_LIBS})
 
 For more info: https://stackoverflow.com/questions/39902004/macos-clion-cmake-opencv-simple-usage-to-display-image-from-file
 
-1. Make a build directory in the top level directory: mkdir build && cd build
-2. Compile: cmake .. && make
+1. Make a build directory in the top level directory: mkdir build && cd build. (optional but recommended)
+2. Compile: cmake .. && make
 3. Run it: ./traffic_simulation
