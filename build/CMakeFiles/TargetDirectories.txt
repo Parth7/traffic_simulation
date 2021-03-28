@@ -1,0 +1,3 @@
+/Users/parthparakh/CLionProjects/traffic_simulation/build/CMakeFiles/rebuild_cache.dir
+/Users/parthparakh/CLionProjects/traffic_simulation/build/CMakeFiles/edit_cache.dir
+/Users/parthparakh/CLionProjects/traffic_simulation/build/CMakeFiles/traffic_simulation.dir
