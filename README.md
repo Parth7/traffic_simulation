@@ -1,9 +1,8 @@
 # traffic_simulation
 
-#####
-For MacOS: 
+To install opencv on MacOS: 
 brew install opencv
-#######
+
 In cmake file : 
 
 cmake_minimum_required(VERSION 3.17)
@@ -17,7 +16,7 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 add_executable(traffic_simulation src/main.cpp)
 
 target_link_libraries(traffic_simulation ${OpenCV_LIBS})
-########
+
 
 For more info: https://stackoverflow.com/questions/39902004/macos-clion-cmake-opencv-simple-usage-to-display-image-from-file
 
